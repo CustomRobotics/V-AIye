@@ -1,2 +1,2 @@
 # V-AIye
-Hackster.IO - Adaptive Computer Challenge Project
+Adaptive Computer Challenge Project @ Hackster.IO
