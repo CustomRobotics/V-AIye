@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Mar 31 23:29:19 2022
+# Process ID: 11060
+# Current directory: C:/Users/softw/source/repos/CustomRobotics/V-AIye/KV260/CR_KV260/CR_KV260.runs/impl_1
+# Command line: vivado.exe -log cr_kv260_bd_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source cr_kv260_bd_wrapper.tcl -notrace
+# Log file: C:/Users/softw/source/repos/CustomRobotics/V-AIye/KV260/CR_KV260/CR_KV260.runs/impl_1/cr_kv260_bd_wrapper.vdi
+# Journal file: C:/Users/softw/source/repos/CustomRobotics/V-AIye/KV260/CR_KV260/CR_KV260.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source cr_kv260_bd_wrapper.tcl -notrace

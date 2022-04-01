@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"cr_kv260_bd": {
+			"proto_instances": {
+			}
+		}
+	}
+}
